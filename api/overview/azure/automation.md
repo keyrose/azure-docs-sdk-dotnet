@@ -16,7 +16,7 @@ ms.service: multiple
 # Azure Automation libraries for .NET
 
 
-## Management library - Test
+## Management library - Test -again
 
 Install the [NuGet package](https://www.nuget.org/packages/Microsoft.Azure.Management.Automation) directly from the Visual Studio [Package Manager console][PackageManager] or with the [.NET Core CLI][DotNetCLI].
 
